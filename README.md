@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikolett (@nixitN).
-- 👀 I’m interested in HTML, CSS, JavaScript and Python.
+- 👀 I’m interested in HTML, CSS, JavaScript, Python, C+ and C#.
 - 🌱 I’m currently learning webdeveloper and I will plan to learn the Python programming language.
 
 <!---
