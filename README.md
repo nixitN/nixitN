@@ -11,6 +11,9 @@ My dream is to become a software developer or a game developer. But at the momen
 - [JavaScript vs. Python](https://github.com/nixitN/js-python)
 - Book Generator (*hidden*)
 
+## My finished projects
+- [FCC Projects](https://github.com/nixitN/fcc-projects): JavaScript + Python + Responsive WebDesign
+
 <!---
 nixitN/nixitN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
