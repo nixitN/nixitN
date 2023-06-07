@@ -1,6 +1,8 @@
 # About me
 Hi, I’m Nikolett (**@nixitN**). I’m interested in *HTML+HTML5*, *CSS*, *Python*, *C++* and *C#*. I’m currently learning webdeveloper/webdesign. I will plan to learn the *Python* and *C++/C#* programming language.
 My dream is to become a software developer or a game developer. But at the moment I would like to work as a software tester so that I can develop continuously.
+- Sometimes I'm a beta tester for Ubisoft games.
+- As a hobby: I like to read, draw and play video games.
 
 ## My actual 'hidden' projects
 - Book Reviewer Template (*hidden*)
