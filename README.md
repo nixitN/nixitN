@@ -4,6 +4,7 @@ My dream is to become a software developer or a game developer. But at the momen
 - Sometimes I'm a beta tester for Ubisoft games.
 - As a hobby: I like to read, draw and play video games.
 - My strength is the HTML and CSS languages, I enjoy creating webdesigns / templates.
+- My spoken languages are Hungarian and English.
 
 ## My actual 'hidden' projects
 - Book Reviewer Template (*hidden*)
